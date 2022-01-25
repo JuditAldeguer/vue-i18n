@@ -1,3 +1,7 @@
 {
-  "message": "hello i18n !!"
+  "hello": "Hello, there!",
+  "message": "hello i18n !!",
+  "welcome": "Welcome!",
+  "yes-button": "Yes",
+  "no-button": "No!"
 }

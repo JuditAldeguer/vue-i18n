@@ -8,10 +8,13 @@ export default {
 }
 </script>
 
-<i18n>
+
+
+<!-- Para poner la traducción directamente en el componente. Sobre escribe lo que hay en locale al ser más especifico -->
+<!-- <i18n>
 {
   "en": {
     "hello": "Hello i18n in SFC!"
   }
 }
-</i18n>
+</i18n> -->
