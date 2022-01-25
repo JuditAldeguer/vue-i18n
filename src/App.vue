@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <SwitchLang/>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloI18n/>
   </div>
@@ -7,11 +8,13 @@
 
 <script>
 import HelloI18n from './components/HelloI18n.vue'
+import SwitchLang from './components/SwitchLang.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloI18n
+    HelloI18n, 
+    SwitchLang
   }
 }
 </script>
